@@ -1,5 +1,0 @@
-first line in master
-second line from other
-second line in master
-third line in master
-
